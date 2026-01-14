@@ -1,2 +1,2 @@
 # vehicle-simulation-project
-GROUP 7 PUNYA PROJECT
+GROUP 7  PROJECT
